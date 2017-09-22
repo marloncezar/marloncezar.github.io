@@ -25,6 +25,10 @@ a {
   transition: all 0.2s; }
   a:focus, a:hover {
     color: white; }
+	
+#email:focus, #email:hover{
+	color: #4d4d4e !important;
+}
 
 h1,
 h2,
