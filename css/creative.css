@@ -122,17 +122,17 @@ body {
   @media (min-width: 992px) {
     #mainNav {
       border-color: rgba(255, 255, 255, 0.3);
-      background-color: transparent; }
+      background-color: #FFF; }
       #mainNav .navbar-brand {
-        color: rgba(255, 255, 255, 0.7); }
+        color: #333; }
         #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-          color: white; }
+          color: #000; }
       #mainNav .navbar-nav > li.nav-item > a.nav-link,
       #mainNav .navbar-nav > li.nav-item > a.nav-link:focus {
-        color: rgba(255, 255, 255, 0.7); }
+        color: #333; }
         #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
         #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-          color: white; }
+          color: #000; }
       #mainNav.navbar-shrink {
         border-color: rgba(34, 34, 34, 0.05);
         background-color: white; }
